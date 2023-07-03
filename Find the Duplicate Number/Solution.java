@@ -5,6 +5,6 @@ class Solution {
         {        
             if(nums[i]==nums[i+1])  return nums[i];
         }
-        return -1;
+        return -1; 
     }
 }
